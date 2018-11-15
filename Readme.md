@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomColumnHeaderTemplate.xaml](./CS/WpfApplication48/CustomColumnHeaderTemplate.xaml) (VB: [CustomColumnHeaderTemplate.xaml](./VB/WpfApplication48/CustomColumnHeaderTemplate.xaml))
+* [MainWindow.xaml](./CS/WpfApplication48/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication48/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication48/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication48/MainWindow.xaml.vb))
+* [VerticalLineHelper.cs](./CS/WpfApplication48/VerticalLineHelper.cs) (VB: [VerticalLineHelper.vb](./VB/WpfApplication48/VerticalLineHelper.vb))
+* [ViewModel.cs](./CS/WpfApplication48/ViewModel.cs) (VB: [ViewModel.vb](./VB/WpfApplication48/ViewModel.vb))
+<!-- default file list end -->
 # How to draw custom separators for GridColumns and GridControlBands
 
 
